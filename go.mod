@@ -9,7 +9,7 @@ require (
 	github.com/klauspost/compress v1.18.5
 	github.com/pires/go-proxyproto v0.11.0
 	github.com/spf13/cobra v1.8.0
-	golang.org/x/crypto v0.51.0
+	golang.org/x/crypto v0.52.0
 	golang.org/x/net v0.55.0
 )
 
